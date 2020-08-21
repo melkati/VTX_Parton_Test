@@ -8,4 +8,6 @@ There are some pictures in the pictures folder about the VTX modification and co
 
 Sorry for the messy code. It just works and was "as is" when I finaly made it work.
 
-Many thanks to "Changosurf" for the information in this page: https://www.rcgroups.com/forums/showpost.php?p=31933755&postcount=3868 (take care, the data for the 18bit latch registry didn't worked with my VTX).
+You can find more information and details at: https://emariete.com/control-transmisor-video-vtx-fpv-arduino/
+
+Many thanks to "Changosurf" for the information at RC Groups (take care, the data for the 18bit latch registry didn't worked with my VTX).
